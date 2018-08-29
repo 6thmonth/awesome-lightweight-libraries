@@ -1,7 +1,7 @@
 # Awesome Lightweight Libraries
 
 ## Graphic
-- [graphic.js](http://www.graphicjs.org)
+- [graphic.js](http://www.graphicsjs.org/)
 
 ## Multimedia
 

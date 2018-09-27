@@ -12,3 +12,6 @@
 ## Caching
 
 - [cacheP2P](https://github.com/guerrerocarlos/CacheP2P) - peer to peer caching library using webtorrent.
+
+## Animation
+- [Popmotion](https://popmotion.io/): Simple libraries for delightful interfaces 
